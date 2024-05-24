@@ -7,7 +7,18 @@ Created on Wed May 15 20:01:13 2024
 #==============================================================================
 # EXAMPLE 01 ODS 16
 #==============================================================================
+"""
+Biermann, Kanie and Kim (2017) highlight the potential of AI in evidence 
+collection and analysis to optimize criminal investigations. AI in digital 
+forensics allows law enforcement to discover crucial data quickly, increasing 
+the chances of securing convictions. This advance improves judicial processes, 
+supporting UN SDG 16 for just and peaceful societies.
 
+Biermann, F., Kanie, N., & Kim, R. E. (2017). Global governance by goal-
+setting: the novel approach of the UN Sustainable Development Goals. Current 
+Opinion In Environmental Sustainability, 26-27, 26-31. 
+https://doi.org/10.1016/j.cosust.2017.01.010. 
+"""
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
